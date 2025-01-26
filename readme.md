@@ -24,4 +24,4 @@ Libraries: pandas, numpy, sklearn, nltk, matplotlib, seaborn
 
 ## Results
 - Best Performing Model: Random Forest Classifier.
-
+- Performed Oversampling and improved the performance of the Logistic Regression model to 94% from 48% and that of Random Forest Classifier to 95%.
